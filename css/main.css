@@ -1,5 +1,7 @@
 body {
-    background: #777;
+    background-image: url(https://zm.nubes.ca/wp-content/uploads/sites/2/2018/02/github-logo-1200x900.png);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 p {
